@@ -1,5 +1,5 @@
 
-<h1>Andrew James Formosa</h1>
+<h1>Andrew James Formosa_CV</h1>
 Tel: 07944 122 766 email: andyformosa@aol.com</br>
 12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE</br></br>
 <b><p align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</b></p></br></br>
@@ -15,10 +15,10 @@ Now, with a wealth of experience, and ready for a new challenge, I am looking fo
 <b>Production management skills</b> - Experienced in adapting and applying production management techniques, KPIs & Balanced-Score-Cards, SPC, "Plan-Do-Check-Act" systems, TPM, Lean manufacturing, Kaizen principles, Business Process Re-engineering, supply chain management, Cellular manufacturing, Six-Sigma and process modelling.</br></br></p>
 
 <h2>Qualifications</h2>
-August 95 BEng in Engineering (Hons) 2:1 Aston University</br>
+<p align="justify">August 95 BEng in Engineering (Hons) 2:1 Aston University</br>
 July'92 "A" levels - Mathematics, Physics, Music</br></br>
 Other Courses Attended Include:</br>
-Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice.</br></br>
+Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice.</br></br></p>
 
 <h2>Work History</h2>
 <p align="justify"><b>December 05 - Current (17 years) </br>
