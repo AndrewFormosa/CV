@@ -21,7 +21,7 @@ Other Courses Attended Include:</br>
 Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice.</br></br>
 
 <h2>Work History</h2>
-<b>December 05 - Current (17 years) </br>
+<p align="justify"><b>December 05 - Current (17 years) </br>
 Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b></br>
 Currently owns and manages a profitable dry cleaning and laundry business.</br>
 Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.</br></br>
@@ -48,7 +48,7 @@ Regional Operations Improvement manager - UK North, Scotland & Ireland - British
 Responsible for the management and leadership of all operations improvement project teams throughout the UK North, Scotland and Ireland regions.</br></br>
 <b>October 96 - April 98</br>
 Shift Team Leader / Manager -Bellshill, Glasgow - British Steel Distribution</br></b>
-Hands-on management of 30 operatives. Responsible for employee health & safety, machine productivity, material-yield, budgets and process costs. on-time delivery, product and service quality and maintenance.</br></br>
+Hands-on management of 30 operatives. Responsible for employee health & safety, machine productivity, material-yield, budgets and process costs. on-time delivery, product and service quality and maintenance.</br></br></p>
 
 <h2>Personal information</h2>
 <p align="justify">Whilst running my business takes most of my time I also have a wide range of hobbies and interests.</br>
