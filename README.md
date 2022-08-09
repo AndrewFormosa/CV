@@ -1,13 +1,13 @@
-<p align="justify">
+
 <h1>Andrew James Formosa</h1>
 Tel: 07944 122 766 email: andyformosa@aol.com</br>
 12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE</br></br>
-<b>A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</b></br></br>
+<b<p align="justify">>A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</b></p></br></br>
 <h2>Career Brief and Aspirations</h2>
-As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.</br>
+<p align="justify">As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.</br>
 On starting a family, chose to change direction and fulfil a long-held ambition of self employment by founding and running a profitable business successfully  for the last 17 years.</br></br>
 Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit. </br>
-Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.</br></br>
+Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.</br></br></p>
 <h2>Key Skills</h2>
 <b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io</br></br>
 <b>Excellent communicator</b> - Has extensive experience in operating successfully at all levels from shop floor to senior management as a business owner, team leader, team member, chair, facilitator and trainer.</br></br>
@@ -57,4 +57,3 @@ Science and Technology - I have a particular interest in science and technology 
 I particularly enjoy the creative arts. Having sung in a number of bands, I have supported several well-known artists and made a television appearance. I still like to compose music regularly(all genres from pop to orchestral).</br></br>
 I exercise regularly and have a strong interest in fitness, nutrition and well-being, which has proved essential during the many years of self employment,
 I consider myself a friendly, kind and out-going person who enjoys spending time with friends, family and my three wonderful teenage children.
-</p>
