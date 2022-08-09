@@ -1,4 +1,4 @@
-
+ <div align=”justify”>
 <h1>Andrew James Formosa</h1>
 Tel: 07944 122 766 email: andyformosa@aol.com</br>
 12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE</br></br>
@@ -57,3 +57,4 @@ Science and Technology - I have a particular interest in science and technology 
 I particularly enjoy the creative arts. Having sung in a number of bands, I have supported several well-known artists and made a television appearance. I still like to compose music regularly(all genres from pop to orchestral).</br></br>
 I exercise regularly and have a strong interest in fitness, nutrition and well-being, which has proved essential during the many years of self employment,
 I consider myself a friendly, kind and out-going person who enjoys spending time with friends, family and my three wonderful teenage children.
+</div>
