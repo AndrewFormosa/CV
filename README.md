@@ -1,4 +1,4 @@
- <p>
+<p align="justify">
 <h1>Andrew James Formosa</h1>
 Tel: 07944 122 766 email: andyformosa@aol.com</br>
 12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE</br></br>
