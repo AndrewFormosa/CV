@@ -4,7 +4,7 @@ CV
 Tel: 07944 122 766 email: andyformosa@aol.com</br>
 12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE</br></br>
 A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</br></br>
-Career Brief and Aspirations</br></br>
+<h2>Career Brief and Aspirations</h2></br></br>
 As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.</br>
 On starting a family, chose to change direction and fulfil a long-held ambition of self employment by founding and running a profitable business successfully  for the last 17 years.</br>
 Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit. </br>
