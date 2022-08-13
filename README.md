@@ -11,7 +11,7 @@ email: andyformosa@aol.com
   </div>
 </div>
 <div>test1</div>
-<div>test2</div>
+
 
 <p align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</p>
 <h2>Career Brief and Aspirations</h2>
