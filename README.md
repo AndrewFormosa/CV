@@ -41,9 +41,9 @@ July'92 "A" levels - Mathematics, Physics, Music
 <p></p>
 <h2>Work History</h2>
 <p></p>
-<b>December 05 - Current (17 years)  
+<b>December 05 - Current (17 years)</b>
   <div></div> 
-Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b>
+<b>Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b>
   <div></div>
 Currently owns and manages a profitable dry cleaning and laundry business.
 <p align="justify">Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.</p>
