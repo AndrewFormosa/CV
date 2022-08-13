@@ -32,11 +32,13 @@ email: andyformosa@aol.com
 <b>Production management skills</b> - Experienced in adapting and applying production management techniques, KPIs & Balanced-Score-Cards, SPC, "Plan-Do-Check-Act" systems, TPM, Lean manufacturing, Kaizen principles, Business Process Re-engineering, supply chain management, Cellular manufacturing, Six-Sigma and process modelling.  </p>
 
 <h2>Qualifications</h2>
-August 95 BEng in Engineering (Hons) 2:1 Aston University  
-July'92 "A" levels - Mathematics, Physics, Music  
 <div align="justify">
-<b>Other Courses Attended Include:</b>
-<div>Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice.</div></div>
+<div>August 95 BEng in Engineering (Hons) 2:1 Aston University</div>  
+<div>July'92 "A" levels - Mathematics, Physics, Music</div>  
+<p></p>
+<div><b>Other Courses Attended Include:</b></div>
+<div>Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice.</div>
+</div>
 <p></p>
 <h2>Work History</h2>
 <p></p>
