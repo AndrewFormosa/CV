@@ -1,8 +1,7 @@
-
-<h1><center>Andrew James Formosa_CV</center></h1>
+<h1>Andrew James Formosa_CV</h1>
 Tel: 07944 122 766 email: andyformosa@aol.com</br>
-12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE</br></br>
-<b><p align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</b></p></br></br>
+12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE
+<p align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</p>
 <h2>Career Brief and Aspirations</h2>
 <p align="justify">As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.</br>
 On starting a family, chose to change direction and fulfil a long-held ambition of self employment by founding and running a profitable business successfully  for the last 17 years.</br></br>
