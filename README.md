@@ -10,24 +10,30 @@ email: andyformosa@aol.com
 
 <p align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</p>
 <h2>Career Brief and Aspirations</h2>
-<p align="justify">As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.
+<p align="justify">As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.  
   
-On starting a family, chose to change direction and fulfil a long-held ambition of self employment by founding and running a profitable business successfully  for the last 17 years.
+On starting a family, chose to change direction and fulfil a long-held ambition of self employment by founding and running a profitable business successfully  for the last 17 years.  
   
-Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit.
+Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit.  
   
 Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.  </p>
 <h2>Key Skills</h2>
-<p align="justify"><b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io</br></br>
-<b>Excellent communicator</b> - Has extensive experience in operating successfully at all levels from shop floor to senior management as a business owner, team leader, team member, chair, facilitator and trainer.</br></br>
-<b>Creativity and Problem solving</b> - Experienced in problem definition, root cause analysis and problem solving techniques. Adapting tried and tested techniques, as well as creating new and innovative solutions.</br></br>
-<b>Production management skills</b> - Experienced in adapting and applying production management techniques, KPIs & Balanced-Score-Cards, SPC, "Plan-Do-Check-Act" systems, TPM, Lean manufacturing, Kaizen principles, Business Process Re-engineering, supply chain management, Cellular manufacturing, Six-Sigma and process modelling.</br></br></p>
+<p align="justify"><b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io  
+  
+<b>Excellent communicator</b> - Has extensive experience in operating successfully at all levels from shop floor to senior management as a business owner, team leader, team member, chair, facilitator and trainer.  
+  
+<b>Creativity and Problem solving</b> - Experienced in problem definition, root cause analysis and problem solving techniques. Adapting tried and tested techniques, as well as creating new and innovative solutions.  
+  
+<b>Production management skills</b> - Experienced in adapting and applying production management techniques, KPIs & Balanced-Score-Cards, SPC, "Plan-Do-Check-Act" systems, TPM, Lean manufacturing, Kaizen principles, Business Process Re-engineering, supply chain management, Cellular manufacturing, Six-Sigma and process modelling.  </p>
 
 <h2>Qualifications</h2>
-<p align="justify">August 95 BEng in Engineering (Hons) 2:1 Aston University</br>
-July'92 "A" levels - Mathematics, Physics, Music</br></br>
-Other Courses Attended Include:</br>
-Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice.</br></br></p>
+<p align="justify">August 95 BEng in Engineering (Hons) 2:1 Aston University  
+  
+July'92 "A" levels - Mathematics, Physics, Music  
+  
+Other Courses Attended Include:  
+  
+Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice. </p>
 
 <h2>Work History</h2>
 <p align="justify"><b>December 05 - Current (17 years) </br>
