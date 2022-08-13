@@ -38,7 +38,7 @@ Employment law, ISO 9000:2000, IOSH managing safety, contractor control, asserti
 <h2>Work History</h2>
 <p align="justify"><b>December 05 - Current (17 years)  
   
-Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk  
+Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b>  
   
 Currently owns and manages a profitable dry cleaning and laundry business.  
   
