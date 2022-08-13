@@ -1,4 +1,4 @@
-<p align="justify">
+<p align="center">
 <h1>Andrew James Formosa_CV</h1>
 
 Tel: 07944 122 766
