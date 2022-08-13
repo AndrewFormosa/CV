@@ -22,9 +22,10 @@ email: andyformosa@aol.com
 <div align="justify">Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit.</div>
   
 <div align="justify">Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.  </div>
+
 <h2>Key Skills</h2>
 <p align="justify"><b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io  
-  
+<div></div>  
 <b>Excellent communicator</b> - Has extensive experience in operating successfully at all levels from shop floor to senior management as a business owner, team leader, team member, chair, facilitator and trainer.  
   
 <b>Creativity and Problem solving</b> - Experienced in problem definition, root cause analysis and problem solving techniques. Adapting tried and tested techniques, as well as creating new and innovative solutions.  
