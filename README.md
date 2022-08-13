@@ -83,12 +83,14 @@ email: andyformosa@aol.com
 <div><b>October 96 - April 98</b></div>
   <div><b>Shift Team Leader / Manager -Bellshill, Glasgow - British Steel Distribution</b></div>
 <div>Hands-on management of 30 operatives. Responsible for employee health & safety, machine productivity, material-yield, budgets and process costs. on-time delivery, product and service quality and maintenance.</div>
+  <p></p>
          </div>
-
 <h2>Personal information</h2>
-<p align="justify">Whilst running my business takes most of my time I also have a wide range of hobbies and interests.</br>
-Application design - Writing games and apps using Unity Engine and c#.</br></br>
-Science and Technology - I have a particular interest in science and technology and enjoy learning new skills through reading and via online courses such as those found on Coursera and YouTube. Currently learning .Net.</br></br>
-I particularly enjoy the creative arts. Having sung in a number of bands, I have supported several well-known artists and made a television appearance. I still like to compose music regularly(all genres from pop to orchestral).</br></br>
-I exercise regularly and have a strong interest in fitness, nutrition and well-being, which has proved essential during the many years of self employment,
-I consider myself a friendly, kind and out-going person who enjoys spending time with friends, family and my three wonderful teenage children.</p>
+<div align="justify">    
+<div>Whilst running my business takes most of my time I also have a wide range of hobbies and interests.</div>
+<div>Application design - Writing games and apps using Unity Engine and c#.</div>
+<div>Science and Technology - I have a particular interest in science and technology and enjoy learning new skills through reading and via online courses such as those found on Coursera and YouTube. Currently learning .Net.</div>
+<div>I particularly enjoy the creative arts. Having sung in a number of bands, I have supported several well-known artists and made a television appearance. I still like to compose music regularly(all genres from pop to orchestral).</div>
+<div>I exercise regularly and have a strong interest in fitness, nutrition and well-being, which has proved essential during the many years of self employment,
+I consider myself a friendly, kind and out-going person who enjoys spending time with friends, family and my three wonderful teenage children.</div>
+  </div>
