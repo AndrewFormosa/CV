@@ -28,9 +28,9 @@ email: andyformosa@aol.com
 <p align="justify"><b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io  
 <div></div>  
 <b>Excellent communicator</b> - Has extensive experience in operating successfully at all levels from shop floor to senior management as a business owner, team leader, team member, chair, facilitator and trainer.  
-  
+  <div></div>  
 <b>Creativity and Problem solving</b> - Experienced in problem definition, root cause analysis and problem solving techniques. Adapting tried and tested techniques, as well as creating new and innovative solutions.  
-  
+  <div></div>  
 <b>Production management skills</b> - Experienced in adapting and applying production management techniques, KPIs & Balanced-Score-Cards, SPC, "Plan-Do-Check-Act" systems, TPM, Lean manufacturing, Kaizen principles, Business Process Re-engineering, supply chain management, Cellular manufacturing, Six-Sigma and process modelling.  </p>
 
 <h2>Qualifications</h2>
