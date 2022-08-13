@@ -79,6 +79,7 @@ Responsible for the management and leadership of all operations improvement proj
 <b>October 96 - April 98</br>
 Shift Team Leader / Manager -Bellshill, Glasgow - British Steel Distribution</br></b>
 Hands-on management of 30 operatives. Responsible for employee health & safety, machine productivity, material-yield, budgets and process costs. on-time delivery, product and service quality and maintenance.</br></br></p>
+            </div>
 
 <h2>Personal information</h2>
 <p align="justify">Whilst running my business takes most of my time I also have a wide range of hobbies and interests.</br>
