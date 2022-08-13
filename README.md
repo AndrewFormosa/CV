@@ -40,24 +40,25 @@ July'92 "A" levels - Mathematics, Physics, Music
 <p></p>
 <h2>Work History</h2>
 <p></p>
-<b>December 05 - Current (17 years)</b>  
-<b>Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b>  
-Currently owns and manages a profitable dry cleaning and laundry business.
-<p align="justify">Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.</p>
+<div align="justify>
+<div><b>December 05 - Current (17 years)</b></div>  
+<div><b>Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b></div>  
+<div>Currently owns and manages a profitable dry cleaning and laundry business.</div>
+<div>Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.</div>
 <p></p>  
 
-<b>December 03- December 05  
+<div><b>December 03- December 05</b></div>  
   
-Production Manager - PrecisionMicro - Photo Chemical Etching Division</b>  
+<div><b>Production Manager - PrecisionMicro - Photo Chemical Etching Division</b></div>  
   
-Selected as production manager for a newly consolidated site following substantial success at the Plates Division.  
+<div>Selected as production manager for a newly consolidated site following substantial success at the Plates Division.</div>  
   
-Responsible for operational management (circa 70 employees). Supplying photo-chemically processed components and engineering solutions to a diverse variety of industries, including: automotive, aerospace, telecommunications, medical, defence  and fuel cell.  
-  
+<div>Responsible for operational management (circa 70 employees). Supplying photo-chemically processed components and engineering solutions to a diverse variety of industries, including: automotive, aerospace, telecommunications, medical, defence  and fuel cell.</div>
+<p></p>  
 
-<b>October 02 - December 03  
+<div><b>October 02 - December 03</b></div>  
   
-Business Unit Manager - PrecisionMicro - Plates Division</b>  
+<div>Business Unit Manager - PrecisionMicro - Plates Division</b></div>  
   
 Responsible for the management of the Plates Division business-unit, manufacturing and supplying photo-chemically etched plates to the solder- mask and printed-circuit-heat-exchange (PCHD) industries.  
   
