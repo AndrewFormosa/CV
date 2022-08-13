@@ -21,7 +21,7 @@ email: andyformosa@aol.com
 <div align="justify">Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit.</div>
   
 <div align="justify">Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.  </div>
-
+<p></p>
 <h2>Key Skills</h2>
 <p align="justify"><b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io  
 <p></p> 
@@ -33,11 +33,11 @@ email: andyformosa@aol.com
 
 <h2>Qualifications</h2>
 <p align="justify">August 95 BEng in Engineering (Hons) 2:1 Aston University  
-  <p></p>
+  <div></div>
 July'92 "A" levels - Mathematics, Physics, Music  
-  <p></p>
-Other Courses Attended Include:  
-  <p></p>
+  <div></div>
+<b>Other Courses Attended Include:</b>  
+  <div></div>
 Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice. </p>
 <p></p>
 <h2>Work History</h2>
