@@ -10,8 +10,10 @@ email: andyformosa@aol.com
 12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE
 </div>
 </div>
-<p></p><p></p>
-<p align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</p>
+<div></div>
+<div></div>
+<div></div>
+<div align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</div>
 <h2>Career Brief and Aspirations</h2>
 <div align="justify">As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.</div>
   
@@ -20,35 +22,34 @@ email: andyformosa@aol.com
 <div align="justify">Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit.</div>
   
 <div align="justify">Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.  </div>
-<p></p>
+
 <h2>Key Skills</h2>
-<p align="justify">
-<b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io  
-<p></p>
+<p align="justify"><b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io  
+<div></div>  
 <b>Excellent communicator</b> - Has extensive experience in operating successfully at all levels from shop floor to senior management as a business owner, team leader, team member, chair, facilitator and trainer.  
-  <p></p>
+  
 <b>Creativity and Problem solving</b> - Experienced in problem definition, root cause analysis and problem solving techniques. Adapting tried and tested techniques, as well as creating new and innovative solutions.  
- <p></p>
+  
 <b>Production management skills</b> - Experienced in adapting and applying production management techniques, KPIs & Balanced-Score-Cards, SPC, "Plan-Do-Check-Act" systems, TPM, Lean manufacturing, Kaizen principles, Business Process Re-engineering, supply chain management, Cellular manufacturing, Six-Sigma and process modelling.  </p>
 
 <h2>Qualifications</h2>
 <p align="justify">August 95 BEng in Engineering (Hons) 2:1 Aston University  
-  
+  <p></p>
 July'92 "A" levels - Mathematics, Physics, Music  
-  
+  <p></p>
 Other Courses Attended Include:  
-  
+  <p></p>
 Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice. </p>
-
+<p></p>
 <h2>Work History</h2>
 <p align="justify"><b>December 05 - Current (17 years)  
+  <p></p>
+Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk<p></p>
   
-Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b>  
-  
-Currently owns and manages a profitable dry cleaning and laundry business.  
+Currently owns and manages a profitable dry cleaning and laundry business. <p></p> 
   
 Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.  
-  
+<p></p>  
 
 <b>December 03- December 05  
   
