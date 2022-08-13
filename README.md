@@ -60,27 +60,28 @@ July'92 "A" levels - Mathematics, Physics, Music
   
 <div>Business Unit Manager - PrecisionMicro - Plates Division</b></div>  
   
-</div>            
-Responsible for the management of the Plates Division business-unit, manufacturing and supplying photo-chemically etched plates to the solder- mask and printed-circuit-heat-exchange (PCHD) industries.  
-  
+          
+<div>Responsible for the management of the Plates Division business-unit, manufacturing and supplying photo-chemically etched plates to the solder- mask and printed-circuit-heat-exchange (PCHD) industries.</div> 
+ <p></p> 
 
-<b>October 01 - October 02  
+<div><b>October 01 - October 02</b><div>  
   
-Director - Queventus Ltd</b>  
+<div><b>Director - Queventus Ltd</b></div>  
   
-Selected by Corus Director to be part of his team in setting-up a limited company, offering management training and Consultancy in the area of, business and profitability improvement through the application of Six Sigma methodology.</br></br>
-
-<b>November 00 - October 01</br>
-APW Supply Chain Manager - Corus Plc {Reporting to Regional Director) (Promoted)</br></b>
-Appointed as the CORUS corporate representative to APW, responsible for the management and improvement of the CORUS - APW supply chain..</br></br>
-
-<b>April 98 - November 00</br>
-Regional Operations Improvement manager - UK North, Scotland & Ireland - British Steel Distribution </br></b>
-Responsible for the management and leadership of all operations improvement project teams throughout the UK North, Scotland and Ireland regions.</br></br>
-<b>October 96 - April 98</br>
-Shift Team Leader / Manager -Bellshill, Glasgow - British Steel Distribution</br></b>
-Hands-on management of 30 operatives. Responsible for employee health & safety, machine productivity, material-yield, budgets and process costs. on-time delivery, product and service quality and maintenance.</br></br></p>
-         
+<div>Selected by Corus Director to be part of his team in setting-up a limited company, offering management training and Consultancy in the area of, business and profitability improvement through the application of Six Sigma methodology.</div>
+<p></p>
+<div><b>November 00 - October 01</b></div>
+<div><b>APW Supply Chain Manager - Corus Plc {Reporting to Regional Director) (Promoted)</b></div>
+<div>Appointed as the CORUS corporate representative to APW, responsible for the management and improvement of the CORUS - APW supply chain..</div>
+<p></p>
+<div><b>April 98 - November 00</b></div>
+<div><b>Regional Operations Improvement manager - UK North, Scotland & Ireland - British Steel Distribution </b></div>
+<div>Responsible for the management and leadership of all operations improvement project teams throughout the UK North, Scotland and Ireland regions.</div>
+  <p></p>
+<div><b>October 96 - April 98</b></div>
+  <div><b>Shift Team Leader / Manager -Bellshill, Glasgow - British Steel Distribution</b></div>
+<div>Hands-on management of 30 operatives. Responsible for employee health & safety, machine productivity, material-yield, budgets and process costs. on-time delivery, product and service quality and maintenance.</div>
+         </div>
 
 <h2>Personal information</h2>
 <p align="justify">Whilst running my business takes most of my time I also have a wide range of hobbies and interests.</br>
