@@ -36,22 +36,35 @@ Other Courses Attended Include:
 Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice. </p>
 
 <h2>Work History</h2>
-<p align="justify"><b>December 05 - Current (17 years) </br>
-Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b></br>
-Currently owns and manages a profitable dry cleaning and laundry business.</br>
-Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.</br></br>
+<p align="justify"><b>December 05 - Current (17 years)  
+  
+Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk  
+  
+Currently owns and manages a profitable dry cleaning and laundry business.  
+  
+Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.  
+  
 
-<b>December 03- December 05</br>
-Production Manager - PrecisionMicro - Photo Chemical Etching Division</b></br>
-Selected as production manager for a newly consolidated site following substantial success at the Plates Division.</br>
-Responsible for operational management (circa 70 employees). Supplying photo-chemically processed components and engineering solutions to a diverse variety of industries, including: automotive, aerospace, telecommunications, medical, defence  and fuel cell.</br></br>
+<b>December 03- December 05  
+  
+Production Manager - PrecisionMicro - Photo Chemical Etching Division</b>  
+  
+Selected as production manager for a newly consolidated site following substantial success at the Plates Division.  
+  
+Responsible for operational management (circa 70 employees). Supplying photo-chemically processed components and engineering solutions to a diverse variety of industries, including: automotive, aerospace, telecommunications, medical, defence  and fuel cell.  
+  
 
-<b>October 02 - December 03</br>
-Business Unit Manager - PrecisionMicro - Plates Division</b></br>
-Responsible for the management of the Plates Division business-unit, manufacturing and supplying photo-chemically etched plates to the solder- mask and printed-circuit-heat-exchange (PCHD) industries.</br></br>
+<b>October 02 - December 03  
+  
+Business Unit Manager - PrecisionMicro - Plates Division  
+  
+Responsible for the management of the Plates Division business-unit, manufacturing and supplying photo-chemically etched plates to the solder- mask and printed-circuit-heat-exchange (PCHD) industries.  
+  
 
-<b>October 01 - October 02</br>
-Director - Queventus Ltd</br></b>
+<b>October 01 - October 02  
+  
+Director - Queventus Ltd</b>  
+  
 Selected by Corus Director to be part of his team in setting-up a limited company, offering management training and Consultancy in the area of, business and profitability improvement through the application of Six Sigma methodology.</br></br>
 
 <b>November 00 - October 01</br>
