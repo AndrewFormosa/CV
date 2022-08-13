@@ -40,7 +40,7 @@ July'92 "A" levels - Mathematics, Physics, Music
 <p></p>
 <h2>Work History</h2>
 <p></p>
-<div align="justify>
+<div align="justify">
 <div><b>December 05 - Current (17 years)</b></div>  
 <div><b>Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b></div>  
 <div>Currently owns and manages a profitable dry cleaning and laundry business.</div>
