@@ -88,9 +88,13 @@ email: andyformosa@aol.com
 <h2>Personal information</h2>
 <div align="justify">    
 <div>Whilst running my business takes most of my time I also have a wide range of hobbies and interests.</div>
+  <p></p>
 <div>Application design - Writing games and apps using Unity Engine and c#.</div>
+    <p></p>
 <div>Science and Technology - I have a particular interest in science and technology and enjoy learning new skills through reading and via online courses such as those found on Coursera and YouTube. Currently learning .Net.</div>
+    <p></p>
 <div>I particularly enjoy the creative arts. Having sung in a number of bands, I have supported several well-known artists and made a television appearance. I still like to compose music regularly(all genres from pop to orchestral).</div>
+    <p></p>
 <div>I exercise regularly and have a strong interest in fitness, nutrition and well-being, which has proved essential during the many years of self employment,
 I consider myself a friendly, kind and out-going person who enjoys spending time with friends, family and my three wonderful teenage children.</div>
   </div>
