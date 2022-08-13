@@ -40,13 +40,13 @@ July'92 "A" levels - Mathematics, Physics, Music
 <p align="justify">Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice. </p>
 <p></p>
 <h2>Work History</h2>
-<p align="justify"><b>December 05 - Current (17 years)  
-  <p></p>
-Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b><p></p>
-  
-Currently owns and manages a profitable dry cleaning and laundry business. <p></p> 
-  
-Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.  
+<p></p>
+<b>December 05 - Current (17 years)  
+  <div></div> 
+Business Owner and Founder - The Textile Care Co - thetextilecareco.co.uk</b>
+  <div></div>
+Currently owns and manages a profitable dry cleaning and laundry business.
+<p align="justify">Responsible for all aspects of the business including finance, marketing, sales, operations and logistics. The business provides professional dry cleaning & laundry services to the corporate and domestic market. Operating through collection & delivery services , several high-street agents and my main store in Stonehouse, Lanarkshire.</p>
 <p></p>  
 
 <b>December 03- December 05  
