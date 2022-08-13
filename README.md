@@ -56,7 +56,7 @@ Responsible for operational management (circa 70 employees). Supplying photo-che
 
 <b>October 02 - December 03  
   
-Business Unit Manager - PrecisionMicro - Plates Division  
+Business Unit Manager - PrecisionMicro - Plates Division</b>  
   
 Responsible for the management of the Plates Division business-unit, manufacturing and supplying photo-chemically etched plates to the solder- mask and printed-circuit-heat-exchange (PCHD) industries.  
   
