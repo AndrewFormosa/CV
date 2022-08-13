@@ -8,20 +8,20 @@ email: andyformosa@aol.com
 </div>
 <div>
 12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE
-  </div>
 </div>
-<div>test1</div>
+</div>
+<div> </div>
 
 
-<p align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</p>
+<div align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</div>
 <h2>Career Brief and Aspirations</h2>
-<p align="justify">As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.  
+<div align="justify">As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.</div>
   
-On starting a family, chose to change direction and fulfil a long-held ambition of self employment by founding and running a profitable business successfully  for the last 17 years.  
+<div align="justify">On starting a family, chose to change direction and fulfil a long-held ambition of self employment by founding and running a profitable business successfully  for the last 17 years.</div>
   
-Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit.  
+<div align="justify">Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit.</div>
   
-Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.  </p>
+<div align="justify">Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.  </div>
 <h2>Key Skills</h2>
 <p align="justify"><b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Experience with HTML, Java, Java Script, Z80 Assembly Language, Microsoft VBA. Currently learning - .Net,Core Git, Bootstrap, Razor, Blazor. Sample of projects can be found at https://andrewformosa.github.io  
   
