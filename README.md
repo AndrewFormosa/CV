@@ -10,9 +10,10 @@ email: andyformosa@aol.com
 12 Dunbar Lane, Motherwell, North Lanarkshire, ML1 4BE
 </div>
 </div>
-<div>.  </div>
-<div> . </div>
-<div>.  </div>
+<div>
+</div>
+<div></div>
+<div></div>
 <div align="justify">A highly experienced business owner, now looking to incorporate a lifelong passion for coding and application development, as well as desire to work towards a greater purpose, into a career change as a software engineer / developer.</div>
 <h2>Career Brief and Aspirations</h2>
 <div align="justify">As an Engineering graduate, achieved early and rapid career progression to senior management  level within the manufacturing industry, gaining hands-on, proven experience of  improving the performance of business systems, equipment and people over a nine year period.</div>
