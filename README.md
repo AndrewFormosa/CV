@@ -35,7 +35,7 @@ email: andyformosa@aol.com
 August 95 BEng in Engineering (Hons) 2:1 Aston University  
   <div></div>
 July'92 "A" levels - Mathematics, Physics, Music  
-  <div></div>
+  <p></p>
 <b>Other Courses Attended Include:</b>  
 <p align="justify">Employment law, ISO 9000:2000, IOSH managing safety, contractor control, assertiveness training, strategic management, EFQM model for business excellence workshop, the 5's', mentoring skills, absence control, risk management, IIP workshop, neuro linguistic programming, Simul8 advanced practice. </p>
 <p></p>
