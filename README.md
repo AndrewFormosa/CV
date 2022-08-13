@@ -60,7 +60,7 @@ email: andyformosa@aol.com
 
 <div><b>October 02 - December 03</b></div>  
   
-<div>Business Unit Manager - PrecisionMicro - Plates Division</b></div>  
+<div><b>Business Unit Manager - PrecisionMicro - Plates Division</b></div>  
   
           
 <div>Responsible for the management of the Plates Division business-unit, manufacturing and supplying photo-chemically etched plates to the solder- mask and printed-circuit-heat-exchange (PCHD) industries.</div> 
@@ -73,7 +73,7 @@ email: andyformosa@aol.com
 <div>Selected by Corus Director to be part of his team in setting-up a limited company, offering management training and Consultancy in the area of, business and profitability improvement through the application of Six Sigma methodology.</div>
 <p></p>
 <div><b>November 00 - October 01</b></div>
-<div><b>APW Supply Chain Manager - Corus Plc {Reporting to Regional Director) (Promoted)</b></div>
+<div><b>APW Supply Chain Manager - Corus Plc (Reporting to Regional Director) (Promoted)</b></div>
 <div>Appointed as the CORUS corporate representative to APW, responsible for the management and improvement of the CORUS - APW supply chain..</div>
 <p></p>
 <div><b>April 98 - November 00</b></div>
