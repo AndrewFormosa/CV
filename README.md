@@ -23,13 +23,17 @@ email: andyformosa@aol.com
 <div align="justify">Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.  </div>
 <p></p>
 <h2>Key Skills</h2>
-<p align="justify"><b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous websites. Skills include: Responsive Web-Site Design, Java-Script Algorithms and Data Structures, Front end development libraries, React & Redux Data-visulisation, D3, Relational Databases,.Net Entity Framework, .Net 6, SQL & Databases, PHP and more 
+<p align="justify">
+
+<b>Adept Learner</b> - Able and eager to both learn and apply new concepts, techniques and programming languages quickly and proficiently.
+  <p></p>
+<b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous web sites and applications. Skills include: Responsive Web-Site Design, Java-Script Algorithms and Data Structures, Front end development libraries, React & Redux, Data-visulisation and D3, Relational Databases, SQL, .Net Entity Framework, PHP and more.. 
 <p></p> 
-<b>Excellent communicator</b> - Has extensive experience in operating successfully at all levels from shop floor to senior management as a business owner, team leader, team member, chair, facilitator and trainer.  
+<b>Excellent communicator</b> - Has extensive experience in operating successfully at all levels from floor to senior management; as a business owner, team leader, team member, chair, facilitator and trainer.
   <p></p>
 <b>Creativity and Problem solving</b> - Experienced in problem definition, root cause analysis and problem solving techniques. Adapting tried and tested techniques, as well as creating new and innovative solutions.  
   <p></p>
-<b>Production management skills</b> - Experienced in adapting and applying production management techniques, KPIs & Balanced-Score-Cards, SPC, "Plan-Do-Check-Act" systems, TPM, Lean manufacturing, Kaizen principles, Business Process Re-engineering, supply chain management, Cellular manufacturing, Six-Sigma and process modelling.  </p>
+<b>Operations management skills</b> - Experienced in adapting and applying operations management techniques, KPIs & Balanced-Score-Cards, SPC, "Plan-Do-Check-Act" systems, TPM, Lean manufacturing, Kaizen principles, Business Process Re-engineering, supply chain management, Cellular manufacturing, Six-Sigma and process modelling.  </p>
 
 <h2>Qualifications</h2>
 <div align="justify">
