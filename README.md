@@ -93,7 +93,7 @@ email: andyformosa@aol.com
 <div align="justify">    
 <div>Whilst running my business takes most of my time I also have a wide range of hobbies and interests.</div>
   <p></p>
-<div>Application design - Writing games and apps using Unity Engine and c#.</div>
+<div>Application design - Writing games and apps using tools such as Unity Engine, .Net, Javascript, PHP. </div>
     <p></p>
 <div>Science and Technology - I have a particular interest in science and technology and enjoy learning new skills through reading and via online courses such as those found on Coursera and YouTube. Currently learning .Net.</div>
     <p></p>
