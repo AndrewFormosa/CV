@@ -21,7 +21,7 @@ personal profile: https://andrewformosa.github.io/personalprofile/
   
 <div align="justify">Having started coding as a young child, a passion for programming and application development has been a constant for over 38 years. It has proved both an essential skill, contributing to the success of my own business and early career, as well as a favourite pastime pursuit.</div>
   
-<div align="justify">Now, with a wealth of experience, and ready for a new challenge, I am looking for an organisation that can offer an opportunity to use and  further develop my programming knowledge and skills and enable me to move towards a new and purposeful career in software engineering and development.  </div>
+<div align="justify">Now, with a wealth of experience, and ready for a new challenge, I am looking for an opportunity to use and  further develop my programming knowledge and skills by journeying towards a new and purposeful career in software engineering and development.  </div>
 <p></p>
 <h2>Key Skills</h2>
 <p align="justify">
