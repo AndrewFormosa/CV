@@ -26,7 +26,7 @@ personal profile: https://andrewformosa.github.io/personalprofile/
 <h2>Key Skills</h2>
 <p align="justify">
 
-<b>Adept Learner</b> - Able to quickly learn and apply new concepts, techniques and programming languages profitiently. 
+<b>Adept Learner</b> - Able to quickly learn and apply new concepts, techniques and programming languages proficiently. 
   <p></p>
 <b>IT Skills</b> - C# and Unity Engine, Developed applications and games through to publication onto the google play store. Have written and maintained numerous web sites and applications. Skills include: Responsive Web-Site Design, Java-Script Algorithms and Data Structures, Front end development libraries, React & Redux, Data-visulisation and D3, Relational Databases, SQL, .Net Entity Framework, NodeJS & Express, Backend development and APIs, PHP, Wordpress and more.. 
 <p></p> 
